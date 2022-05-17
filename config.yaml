@@ -1,0 +1,13 @@
+host:
+  port: 8080
+  # ip: 192.168.199.117
+  # ip: 127.0.0.1
+  ip: 0.0.0.0
+  log: data/logs/app/web.log
+  env: dev
+db:
+  ip: 127.0.0.1
+  port: 3306
+  username: rust_cms
+  password: YAFeCkmi886yk36C
+  dbname: rust_cms
